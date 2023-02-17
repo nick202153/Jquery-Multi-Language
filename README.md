@@ -38,13 +38,4 @@ $.MultiLanguage('language.json', 'en') // change language immdiately
 }
 ```
 
-Demo:
------
-[demo]
-
-
-
-[demo]:http://mingchoi.github.io/Multi-Language/
-
-
-
+Make a little fix to prevent tagName undefined problem.
